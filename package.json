@@ -1,5 +1,5 @@
 {
-  "name": "bytenode",
+  "name": "bytenode-dinulec",
   "version": "1.5.6",
   "description": "A minimalist bytecode compiler for Node.js fixed by dinulec",
   "main": "lib/index.js",
